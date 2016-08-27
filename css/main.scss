@@ -37,3 +37,13 @@ $on-laptop:        800px;
 
 // Import partials from the `minima` theme.
 @import "minima";
+
+.site-title {
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  font-weight: bold;
+}
+
+.hero-image {
+  margin-bottom: 1rem;
+}
