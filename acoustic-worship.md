@@ -4,7 +4,7 @@ title: Acoustic Worship
 permalink: /acoustic-worship/
 ---
 
-This is an album that I recorded just before my son was born and it contains 1 original 8 cover worship songs.
+This is an album that I recorded just before my son was born and it contains 1 original and 8 cover worship songs.
 
 You can purchase the album by going to any of the following:
 
